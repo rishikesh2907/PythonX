@@ -1,0 +1,1 @@
+s = {8 , 7 , 12 , "Harry" , [1,2]}  # THis will provide error as we cant even include lists in a set
